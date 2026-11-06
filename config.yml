@@ -1,0 +1,11 @@
+# false = geschuetzte Lobby; true = Event laeuft mit PvP und Bauen
+# Der Status bleibt auch nach einem Server-Neustart erhalten.
+event:
+  started: false
+
+# Spieler werden waehrend der geschuetzten Lobby-Phase zur Lobby teleportiert.
+teleport-on-join: true
+
+# Ohne /event setlobby wird der Welt-Spawn der ersten Welt verwendet.
+lobby:
+  world: ""

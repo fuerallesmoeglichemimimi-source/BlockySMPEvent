@@ -1,0 +1,10 @@
+name: LobbyEvent
+version: 1.1.0
+main: de.citypvpworld.lobbyevent.LobbyEventPlugin
+api-version: '1.21'
+author: CityPvPWorld
+description: Geschuetzte Lobby mit OP-Eventstart und automatischer Freischaltung von PvP und Bauen.
+commands:
+  event:
+    description: Lobby- und Event-Befehle
+    usage: /event <setlobby|start <text>|reset|help>
