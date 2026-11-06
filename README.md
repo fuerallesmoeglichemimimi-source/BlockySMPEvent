@@ -1,4 +1,4 @@
-# LobbyEvent 1.1.0 (Paper 1.21.11)
+ # LobbyEvent 1.1.0 (Paper 1.21.11)
 
 Ein Lobby-/Event-Plugin fuer Paper 1.21.11 und Java 21.
 
